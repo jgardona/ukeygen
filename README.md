@@ -11,7 +11,7 @@ cargo install keygen
 ### Usage
 
 ```
-$ ./keygen -h
+$ keygen -h
 An uniform random key generator
 
 Usage: keygen [OPTIONS] <SIZE>
@@ -28,6 +28,6 @@ Options:
   -V, --version    Print version
 
 
-$ ./keygen medium -lun
+$ keygen medium -lun
 $ 47JSJTglQ91B6VZ3
 ```
