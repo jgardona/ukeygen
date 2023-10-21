@@ -1,20 +1,20 @@
 # Keygen
 
-Keygen is a cli tool who generates uniform random keys. You can choose from symbols, numerics, uppercases and lowercases characters, and also, the key size, small(8), medium(16) and large(20).
+Ukeygen is a cli tool who generates uniform random keys. You can choose from symbols, numerics, uppercases and lowercases characters, and also, the key size, small(8), medium(16) and large(20).
 
 ### Install
 
 ```
-cargo install keygen
+cargo install ukeygen
 ```
 
 ### Usage
 
 ```
-$ keygen -h
+$ ukeygen -h
 An uniform random key generator
 
-Usage: keygen [OPTIONS] <SIZE>
+Usage: ukeygen [OPTIONS] <SIZE>
 
 Arguments:
   <SIZE>  The key size [possible values: small, medium, large]
@@ -28,6 +28,6 @@ Options:
   -V, --version    Print version
 
 
-$ keygen medium -lun
+$ ukeygen medium -lun
 $ 47JSJTglQ91B6VZ3
 ```

@@ -1,5 +1,5 @@
 [package]
-name = "keygen"
+name = "ukeygen"
 version = "0.1.1"
 edition = "2021"
 description = "An uniform random key generator"
