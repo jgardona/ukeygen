@@ -5,7 +5,7 @@ Keygen is a cli tool who generates uniform random keys. You can choose from symb
 ### Install
 
 ```
-cargo install --git https://github.com/jgardona/ukeygen
+cargo install keygen
 ```
 
 ### Usage
