@@ -1,6 +1,6 @@
 [package]
 name = "ukeygen"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "An uniform random key generator"
 authors = ["Julio Gardona <jcbritobr@gmail.com>"]
